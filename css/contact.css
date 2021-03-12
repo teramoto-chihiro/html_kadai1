@@ -1,0 +1,30 @@
+.form-table th{
+  height: 7rem;
+  width: 150px;
+}
+.form-table td{
+  width: 480px;
+}
+.a_name{
+  width: 480px;
+}
+.a_name th{}
+.a_mail{
+  width: 480px;
+}
+.a_sex{
+  /* margin-bottom: 17px; */
+}
+.a_text{
+  width: 480px;
+    height: 5rem;
+}
+.a_submit{
+  color: white;
+  background-color: rgb(89, 247, 177);
+  height: 5rem;
+  margin-left: 170px;
+  font-size: 30px;}
+.a_submit:hover{
+  opacity: 0.6;
+}
